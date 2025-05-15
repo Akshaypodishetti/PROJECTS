@@ -22,3 +22,4 @@ while not game:
         elif '_' not in display:
             game = True
             print("You Win!!")
+        print("")
